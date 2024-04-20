@@ -27,8 +27,6 @@ Specter is a sophisticated shell utility designed to add an element of unpredict
    ```bash
    chmod +x ghostcommands.py
 
-OR 
-
 **Configuration**
 
 To integrate Specter into your command line workflow, follow these steps to set up the Python script handler and command aliases in your shell configuration:
