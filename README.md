@@ -1,7 +1,7 @@
 # Specter
 
 ## Overview
-Specter is a sophisticated shell utility designed to add an element of unpredictability to command line operations. By introducing random delays, simulating errors, or executing commands normally, Specter offers a dynamic environment ideal for cybersecurity training and command line proficiency exercises.
+Specter is a shell utility designed to add an element of unpredictability to command line operations. By introducing random delays, simulating errors, or executing commands normally, Specter offers a dynamic environment ideal for cybersecurity training and command line proficiency exercises.
 
 ## Features
 - **Random Delays**: Injects random delays before command execution, simulating real-world latency or high system load.
